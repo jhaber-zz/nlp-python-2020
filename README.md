@@ -8,7 +8,7 @@
 
 This workshop will equip newcowers to natural language processing or NLP (with some Python know-how) with a foundation for applying NLP methods in their work. The focus is on common steps in an NLP research workflow and user-friendly implementations of popular packages and methods. 
 
-We will first go through the common “preprocessing recipe” used as for a variety of applications and NLP techniques. This includes: a) tokenization; b) removing stopwords, punctuation, and numbers; c) stemming/lemmatizing words; d) calculation of word frequencies / proportions; and e) part of speech tagging. We will then go over text classification and build some simple models
+We will first go through the common “preprocessing recipe” used as for a variety of applications and NLP techniques. This includes: a) tokenization; b) removing stopwords, punctuation, and numbers; c) stemming/lemmatizing words; d) calculation of word frequencies / proportions; and e) part of speech tagging. We will then go over simple methods using a bag-of-words approach.
 
 ## Workshop goals
 
@@ -20,7 +20,7 @@ We will first go through the common “preprocessing recipe” used as for a var
   - how to interpret results
 * Gain practice with: 
   - preprocessing text data
-  - simple methods using a bag-of-words approach
+  - simple, common applications
   - NLTK and (a little) SpaCy
 * Acquire resources for further learning
 
