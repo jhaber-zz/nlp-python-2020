@@ -1,0 +1,6 @@
+pandas==0.25.3
+numpy==1.17.2
+nltk==3.4.5
+beautifulsoup4==4.8.0
+scikit_learn==0.21.3
+lxml==4.4.2
