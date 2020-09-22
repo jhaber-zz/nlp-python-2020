@@ -59,6 +59,8 @@ If you spot a problem with these materials, please make an issue describing the 
 * [Laura Nelson](http://www.lauraknelson.com)
 * [Geoff Bacon](https://geoffbacon.github.io/)
 * [Ben Gebre-Medhin](http://gebre-medhin.com)
-(more to come)
+<br>(more to come)
+
+<br>
 
 ![MDI logo](assets/mdi_logo.png)
