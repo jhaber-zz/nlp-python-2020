@@ -44,6 +44,7 @@ pip3 install -r requirements.txt
 * [Quick Python intro (a Jupyter Notebook)](https://github.com/jhaber-zz/nlp-python-2020/blob/master/solutions/intro-to-python.ipynb)
 * [Great book on Python (with exercises): “Python for Everybody” (Charles Severance)](https://www.py4e.com/book.php)
 * [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [Python tutorials for social scientists (Neal Caren)](https://nealcaren.github.io/python-tutorials/)
 * [NLP course & scripts, for social scientists & digital humanists (Laura Nelson)](https://github.com/lknelson/text-analysis-course)
 * [NLP textbook (Jurafsky & Martin @ Stanford)](https://web.stanford.edu/~jurafsky/slp3/)
 * [Book on NLTK (NLTK team)](http://www.nltk.org/book/)
