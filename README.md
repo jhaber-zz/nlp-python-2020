@@ -58,6 +58,7 @@ If you spot a problem with these materials, please make an issue describing the 
 ## Acknowledgments
 
 * [D-Lab at the University of California, Berkeley](https://dlab.berkeley.edu/)
+* [Summer Institute in Computational Social Science](https://sicss.io/)
 * [Laura Nelson](http://www.lauraknelson.com)
 * [Geoff Bacon](https://geoffbacon.github.io/)
 * [Ben Gebre-Medhin](http://gebre-medhin.com)
