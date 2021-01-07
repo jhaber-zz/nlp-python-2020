@@ -1,7 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhaber-zz/nlp-python-2020/master)
+
 # Natural language processing: An introduction in Python
 ## A workshop with the [Massive Data Institute](https://mccourt.georgetown.edu/research/the-massive-data-institute/), Georgetown University
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhaber-zz/nlp-python-2020/master)
 
 
 ## Overview
@@ -30,7 +30,7 @@ We will get our hands dirty implementing basic natural language processing tools
 
 ## Getting started & software prerequisites
 
-For simplicity, just click the "Launch Binder" button to create a virtual environment ready for this workshop. 
+For simplicity, just click the "Launch Binder" button (at the top of this Readme) to create a virtual environment ready for this workshop. It may take a few minutes; if it takes longer than 10, try again.
 
 If you want to run the code on your computer, you have two options. You could use [Anaconda](https://www.anaconda.com/what-is-anaconda/) to make installation easy: [download Anaconda](https://www.anaconda.com/download/) . Or if you already have Python 3.x installed with the full list of libraries listed under `requirements.txt`, you're welcome to clone this repository and follow along on your own machine. You can also install all the necessary packages like so: 
 
