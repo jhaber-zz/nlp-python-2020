@@ -10,6 +10,8 @@ This workshop will equip newcowers to natural language processing or NLP (with s
 
 We will first go through the common “preprocessing recipe” used as for a variety of applications and NLP techniques. This includes: a) tokenization; b) removing stopwords, punctuation, and numbers; c) stemming/lemmatizing words; d) calculation of word frequencies / proportions; and e) part of speech tagging. We will then go over simple dictionary methods (including sentiment analysis) using a bag-of-words approach.
 
+For a recorded introduction to NLP and text preprocessing, [watch my talk here on YouTube (58 mins)](https://bit.ly/nlp-talk-2020). You can also see the slides under the `day-1/` folder.
+
 ## Workshop goals
 
 * Build intuitions about opportunities and limitations for using text as data
